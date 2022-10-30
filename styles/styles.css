@@ -1,0 +1,63 @@
+body {
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: Tahoma, sans-serif;
+}
+
+h1 {
+    color: green;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 40px;
+}
+
+h1.main-title {
+    font-size: 60px;
+}
+
+.img-title-page {
+    height: auto;
+    width: 500px;
+}
+
+.recipe-title-img {
+    text-align: center;
+}
+
+.all-recipes-list {
+    list-style: none;
+    margin-top: 50px;
+}
+
+.recipe-section {
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+.home-link {
+    text-decoration: none;
+    font-size: 20px;
+    padding-top: 20px;
+    display: inline-block;
+    color: forestgreen;
+}
+
+.all-recipes-list a {
+    text-decoration: none;
+    font-size: 30px;
+    color: forestgreen;
+}
+
+a:hover {
+    color: orangered;
+}
+
+img {
+    border-radius: 5px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 80px;
+    color: orangered;
+}
